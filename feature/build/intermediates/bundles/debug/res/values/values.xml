@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="age">年齡</string>
+    <string name="btn">確認</string>
+    <string name="edtAge">(請輸入年齡)</string>
+    <string name="edtSex">(請輸入性別)</string>
+    <string name="output"/>
+    <string name="sex">性別</string>
+</resources>
