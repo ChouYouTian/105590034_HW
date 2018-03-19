@@ -25,50 +25,50 @@ public class MainActivity extends AppCompatActivity {
         output=(TextView)findViewById(R.id.textView3);
 
         btn.setOnClickListener(new Button.OnClickListener(){
-            public void onClick(View aa){
+                                   public void onClick(View aa){
 
-                if(!("".equals(age.getText().toString()) || "".equals(sex.getText().toString()))){
-                    int iage = Integer.parseInt(age.getText().toString());
+                                       if(!("".equals(age.getText().toString()) || "".equals(sex.getText().toString()))){
+                                           int iage = Integer.parseInt(age.getText().toString());
 
-                    if("male".equals(sex.getEditableText().toString())){
-                       if(iage<30){
-                           output.setText("建議:not hurry");
-                       }
+                                           if("男".equals(sex.getEditableText().toString())){
+                                               if(iage<30){
+                                                   output.setText("還不急");
+                                               }
 
-                       else if(iage<35 && iage>=30){
-                           output.setText("建議:get marry");
-                       }
+                                               else if(iage<35 && iage>=30){
+                                                   output.setText("結婚吧");
+                                               }
 
-                       else if(iage>35){
-                           output.setText("建議:finr couple");
-                       }
-                    }
+                                               else if(iage>35){
+                                                   output.setText("找個女朋友吧");
+                                               }
+                                           }
 
-                    else if("female".equals(sex.getEditableText().toString())){
-                        if(iage<28){
-                            output.setText("建議:not hurry");
-                        }
+                                           else if("女".equals(sex.getEditableText().toString())){
+                                               if(iage<28){
+                                                   output.setText("還不急");
+                                               }
 
-                        else if(iage<32 && iage>=28){
-                            output.setText("建議:get marry");
-                        }
+                                               else if(iage<32 && iage>=28){
+                                                   output.setText("結婚吧");
+                                               }
 
-                        else if(iage>32){
-                            output.setText("建議:finr couple");
-                        }
-                    }
+                                               else if(iage>32){
+                                                   output.setText("找個男朋友吧");
+                                               }
+                                           }
 
-                    else{
-                        output.setText("輸入錯誤");
-                    }
-                }
+                                           else{
+                                               output.setText("輸入錯誤");
+                                           }
+                                       }
 
-                else{
-                    output.setText("尚未輸入資料");
-                }
-            }
+                                       else{
+                                           output.setText("尚未輸入資料");
+                                       }
+                                   }
 
-        }
+                               }
         );
 
     }

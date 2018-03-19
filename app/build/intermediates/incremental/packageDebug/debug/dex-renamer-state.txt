@@ -1,4 +1,4 @@
-#Wed Mar 14 16:33:50 CST 2018
+#Tue Mar 20 00:59:49 GMT+08:00 2018
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=C\:\\Users\\NTUTCSIE\\Desktop\\HW1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\19
-base.4=C\:\\Users\\NTUTCSIE\\Desktop\\HW1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\22
-base.3=C\:\\Users\\NTUTCSIE\\Desktop\\HW1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
-base.2=C\:\\Users\\NTUTCSIE\\Desktop\\HW1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
-base.1=C\:\\Users\\NTUTCSIE\\Desktop\\HW1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
-base.0=C\:\\Users\\NTUTCSIE\\Desktop\\HW1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+base.5=C\:\\Users\\hannis\\Desktop\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+base.4=C\:\\Users\\hannis\\Desktop\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\28
+base.3=C\:\\Users\\hannis\\Desktop\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27
+base.2=C\:\\Users\\hannis\\Desktop\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\29
+base.1=C\:\\Users\\hannis\\Desktop\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\24
+base.0=C\:\\Users\\hannis\\Desktop\\Android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
 path.5=classes.dex
 path.4=classes.dex
 path.3=classes.dex
