@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\hannis\Desktop\Android\feature\src\main\assets"/><source path="C:\Users\hannis\Desktop\Android\feature\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\hannis\Desktop\Android\feature\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\NTUTCSIE\Desktop\HW1\feature\src\main\assets"/><source path="C:\Users\NTUTCSIE\Desktop\HW1\feature\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\NTUTCSIE\Desktop\HW1\feature\src\debug\assets"/></dataSet></merger>
