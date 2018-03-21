@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW#2:105590034</string>
+    <string name="sex">gender</string>
+    <string name="sex_hint">(your gender)</string>
+    <string name="age">age</string>
+    <string name="age_hint">(your age)</string>
+    <string name="btn_ok">enter</string>
+    <string name="suggestion">suggestion：</string>
+    <string name="sug_not_hurry">no hurry</string>
+    <string name="sug_get_married">get merry！</string>
+    <string name="sug_find_couple">find someone</string>
+    <string name="sex_male">male</string>
+</resources>

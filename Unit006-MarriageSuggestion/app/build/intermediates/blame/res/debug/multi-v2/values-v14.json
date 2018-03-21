@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\NTUTCSIE\\Desktop\\Unit006-MarriageSuggestion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "C:\\Users\\hannis\\Desktop\\Unit006-MarriageSuggestion\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\NTUTCSIE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\7524031166b2390a62ae2a176634c856\\res\\values-v14\\values-v14.xml",
+                    "source": "C:\\Users\\hannis\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\de9b63e16d675a7656f8e3eaeccf7ddd\\res\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15,21,22,23,26,27",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

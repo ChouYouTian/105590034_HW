@@ -1,85 +1,85 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7524031166b2390a62ae2a176634c856\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7f24e039bb925a0db6405159efde7d66\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\bb14098e882fd2cbc6b3a0a544502eee\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\d267e28c645c9ec18c5ae9bcfd1c7267\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
+ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\de9b63e16d675a7656f8e3eaeccf7ddd\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6cd92215466b975b7bd91ab9ce1bc5b9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7c5b28bb1146376584467fe503c89f57\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4bcd2a39b59556504973da171f1b87cc\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
 	package
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7524031166b2390a62ae2a176634c856\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7524031166b2390a62ae2a176634c856\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7f24e039bb925a0db6405159efde7d66\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7f24e039bb925a0db6405159efde7d66\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\bb14098e882fd2cbc6b3a0a544502eee\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\bb14098e882fd2cbc6b3a0a544502eee\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\d267e28c645c9ec18c5ae9bcfd1c7267\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\d267e28c645c9ec18c5ae9bcfd1c7267\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\de9b63e16d675a7656f8e3eaeccf7ddd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\de9b63e16d675a7656f8e3eaeccf7ddd\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6cd92215466b975b7bd91ab9ce1bc5b9\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6cd92215466b975b7bd91ab9ce1bc5b9\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7c5b28bb1146376584467fe503c89f57\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7c5b28bb1146376584467fe503c89f57\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4bcd2a39b59556504973da171f1b87cc\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4bcd2a39b59556504973da171f1b87cc\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.marriagesuggestion.MainActivity
-ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:11:9-17:20
+ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:11:19-47
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:12:13-16:29
+ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:13:17-69
+ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:13:25-66
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:15:17-77
+ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7524031166b2390a62ae2a176634c856\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7524031166b2390a62ae2a176634c856\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7f24e039bb925a0db6405159efde7d66\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\7f24e039bb925a0db6405159efde7d66\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\bb14098e882fd2cbc6b3a0a544502eee\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\bb14098e882fd2cbc6b3a0a544502eee\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\d267e28c645c9ec18c5ae9bcfd1c7267\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\d267e28c645c9ec18c5ae9bcfd1c7267\AndroidManifest.xml:20:5-43
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\de9b63e16d675a7656f8e3eaeccf7ddd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\de9b63e16d675a7656f8e3eaeccf7ddd\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6cd92215466b975b7bd91ab9ce1bc5b9\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\6cd92215466b975b7bd91ab9ce1bc5b9\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7c5b28bb1146376584467fe503c89f57\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\7c5b28bb1146376584467fe503c89f57\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4bcd2a39b59556504973da171f1b87cc\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\4bcd2a39b59556504973da171f1b87cc\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\NTUTCSIE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\7524031166b2390a62ae2a176634c856\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\hannis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\de9b63e16d675a7656f8e3eaeccf7ddd\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\NTUTCSIE\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hannis\Desktop\Unit006-MarriageSuggestion\app\src\main\AndroidManifest.xml
