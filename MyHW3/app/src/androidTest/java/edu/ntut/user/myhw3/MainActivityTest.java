@@ -75,8 +75,9 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
         assertEquals("edu.ntut.user.myhw3", appContext.getPackageName());
     }
 
+
     @Test
-    public void maleAgeRange1Family1() {
+    public void maleAgeRange1Family2() {
 
         //create and execute UI thread (in order to perform GUI interactions)
         mMainActivity.runOnUiThread(new Runnable() {
@@ -85,7 +86,7 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
             public void run() {                    // provide inputs
                 mSpnSex.setSelection(0);
                 mRadBtnAgeRange1.setChecked(true);
-                mNumPkrFamily.setValue(3);
+                mNumPkrFamily.setValue(12);
                 mBtnOK.performClick();
             }
         });
@@ -100,8 +101,7 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
                 mTxtSug.getText().toString());
     }
 
-    @Test
-    public void maleAgeRange1Family2() {
+    public void maleAgeRange2Family2() {
 
         //create and execute UI thread (in order to perform GUI interactions)
         mMainActivity.runOnUiThread(new Runnable() {
@@ -109,7 +109,7 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
             @Override
             public void run() {                    // provide inputs
                 mSpnSex.setSelection(0);
-                mRadBtnAgeRange1.setChecked(true);
+                mRadBtnAgeRange2.setChecked(true);
                 mNumPkrFamily.setValue(5);
                 mBtnOK.performClick();
             }
@@ -122,6 +122,102 @@ public class MainActivityTest extends ActivityInstrumentationTestCase2<MainActiv
         }
 
         assertEquals("建議："+mMainActivity.getString(R.string.sug_find_couple),
+                mTxtSug.getText().toString());
+    }
+
+    public void maleAgeRange3Family1() {
+
+        //create and execute UI thread (in order to perform GUI interactions)
+        mMainActivity.runOnUiThread(new Runnable() {
+
+            @Override
+            public void run() {                    // provide inputs
+                mSpnSex.setSelection(0);
+                mRadBtnAgeRange3.setChecked(true);
+                mNumPkrFamily.setValue(3);
+                mBtnOK.performClick();
+            }
+        });
+
+        try {
+            Thread.sleep(2000);   // wait for 2 second
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        assertEquals("建議："+mMainActivity.getString(R.string.sug_find_couple),
+                mTxtSug.getText().toString());
+    }
+
+    public void femaleAgeRange1Family1() {
+
+        //create and execute UI thread (in order to perform GUI interactions)
+        mMainActivity.runOnUiThread(new Runnable() {
+
+            @Override
+            public void run() {                    // provide inputs
+                mSpnSex.setSelection(1);
+                mRadBtnAgeRange1.setChecked(true);
+                mNumPkrFamily.setValue(3);
+                mBtnOK.performClick();
+            }
+        });
+
+        try {
+            Thread.sleep(2000);   // wait for 2 second
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        assertEquals("建議："+mMainActivity.getString(R.string.sug_get_married),
+                mTxtSug.getText().toString());
+    }
+
+    public void femaleAgeRange2Family2() {
+
+        //create and execute UI thread (in order to perform GUI interactions)
+        mMainActivity.runOnUiThread(new Runnable() {
+
+            @Override
+            public void run() {                    // provide inputs
+                mSpnSex.setSelection(1);
+                mRadBtnAgeRange2.setChecked(true);
+                mNumPkrFamily.setValue(5);
+                mBtnOK.performClick();
+            }
+        });
+
+        try {
+            Thread.sleep(2000);   // wait for 2 second
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        assertEquals("建議："+mMainActivity.getString(R.string.sug_find_couple),
+                mTxtSug.getText().toString());
+    }
+
+    public void femaleAgeRange3Family2() {
+
+        //create and execute UI thread (in order to perform GUI interactions)
+        mMainActivity.runOnUiThread(new Runnable() {
+
+            @Override
+            public void run() {                    // provide inputs
+                mSpnSex.setSelection(1);
+                mRadBtnAgeRange1.setChecked(true);
+                mNumPkrFamily.setValue(8);
+                mBtnOK.performClick();
+            }
+        });
+
+        try {
+            Thread.sleep(2000);   // wait for 2 second
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+
+        assertEquals("建議："+mMainActivity.getString(R.string.sug_get_married),
                 mTxtSug.getText().toString());
     }
 }
