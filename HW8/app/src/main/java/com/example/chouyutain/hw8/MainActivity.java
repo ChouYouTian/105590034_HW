@@ -48,9 +48,9 @@ public class MainActivity extends AppCompatActivity {
     private AdapterView.OnClickListener RecordBtnOnclick = new View.OnClickListener() {
         @Override
         public void onClick(View v){
-            Intent = new Intent(MainActivity.this, RecordActivity.class);
-            Intent.putStringArrayListExtra("timeList", timeList);
-            startActivity(Intent);
+            Intent it = new Intent(MainActivity.this, RecordActivity.class);
+            it.putStringArrayListExtra("timeList", timeList);
+            startActivity(it);
         }
     };
     private AdapterView.OnClickListener EnterBtnOnclick = new View.OnClickListener() {
